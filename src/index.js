@@ -67,7 +67,7 @@ ReactDOM.render(
 
         <img className="imagem-1" src={Wolf1Img} alt="Wolf 1" />
 
-        <p>É um sobrevivente da Era do Gelo, originário do Pleistoceno Superior, cerca de 300 mil anos atrás.[2] O sequenciamento de DNA e estudos.</p>
+        <p className="destaque">É um sobrevivente da Era do Gelo, originário do Pleistoceno Superior, cerca de 300 mil anos atrás.[2] O sequenciamento de DNA e estudos.</p>
 
         <img className="imagem-2" src={Wolf2Img} alt="Wolf 2" />
 
