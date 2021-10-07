@@ -1,27 +1,31 @@
 # Wildbeast
-Site com informações sobre animais! (Projeto feito com base no vídeo da Origamid, durante meus estudos de CSS Grid Layout e Responsividade)
+Site with information about wolves. (Project based on the video from Origami's youtube channel, during my studies of CSS Grid Layout and Web Responsiveness)
 
-# :eyes: Visualizar projeto
+# :eyes: View project
 
-Clique no botão abaixo para ver o deploy do projeto na [Vercel](https://vercel.com)
+Click on the button below to see the project's deployment on [Vercel](https://vercel.com)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://wildbeast-mu.vercel.app)
 
 # :camera: Screenshot
 <img src="https://i.ibb.co/qMRcxvw/fawdawd.png" width="600px"></a>
 
-# :construction_worker: Como rodar ?
+# :construction_worker: How work ?
 ```bash
-# Clone o Repositório:
+# Clone this repository
 $ https://github.com/KaikySantos/wildbeast.git
 
-# Entre na pasta criada:
+# Access the project folder
 $ cd wildbeast
 
-# Instale as dependências
+# Install the dependencies
 $ yarn install
 
-# Rode a aplicação
+# Run the application
 $ yarn start
 ```
-Entre em http://localhost:3000/ para ver o resultado.
+Go to http://localhost:3000/ to see the result.
+
+<hr/>
+
+<p align="center">Made with 💙 by Kaiky Santos</p>
